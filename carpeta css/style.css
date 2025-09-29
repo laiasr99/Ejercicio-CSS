@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.reducit-tamaño{
+    width: 200px;
+    height: auto;
+}
+
+.subrayado{
+    background-color: gray;
+}
+
+.imagen-flotante{
+    display: flex; 
+}
